@@ -1,0 +1,48 @@
+.instagram {
+    text-align: center;
+    align-items: center;
+}
+
+.names {
+    margin-top: 20px;
+    font-size: 30px;
+    font-weight: 900;
+}
+
+.image img {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    width: 400px;
+    margin-top: 20px;
+}
+
+button {
+    width: 200px;
+    height: 100px;
+    color: rgb(255, 255, 255);
+    background: rgb(0, 0, 0);
+    border: none;
+    border-radius: 10px;
+    font-size: 30px;
+    font-weight: 900;
+}
+
+button:hover {
+    cursor: pointer;
+    border: 2PX solid #fff;
+}
+
+.flex {
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.flex img {
+    width: 100px;
+    height: 100px;
+}
